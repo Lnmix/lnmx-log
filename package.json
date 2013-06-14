@@ -1,0 +1,16 @@
+{
+  "name": "lnmx-log",
+  "version": "0.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "step":"*",
+    "lnmx-utils": "git+ssh://git@github.com:Lnmix/lnmx-utils.git"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD"
+}
