@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "step":"*",
-    "lnmx-utils": "git+ssh://git@github.com:Lnmix/lnmx-utils.git"
+    "lnmx-utils": "git://github.com/Lnmix/lnmx-utils.git"
   },
   "repository": "",
   "author": "",
