@@ -7,8 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "step":"*",
-    "lnmx-utils": "git://github.com/Lnmix/lnmx-utils.git"
+    "step": "*",
+    "lnmx-utils": "git://github.com/Lnmix/lnmx-utils.git",
+    "aws-sdk": "~2.0.0-rc1"
   },
   "repository": "",
   "author": "",
